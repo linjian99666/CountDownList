@@ -1,7 +1,10 @@
-# CountDownListDemo
-一个用于列表倒计时实现的例子
+# CountDownList
 
-1.recyclerview
+一个用于列表倒计时实现的例子,具备以下特征:
+An example of a countdown list,It has the following characteristics:
+
+
+1.recyclerview实现
 
 2.列表可见区域刷新
 
