@@ -12,5 +12,5 @@
 示例截图:
 
 <div align="center">
-    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+    <img src="/screenshots/screen1.gif" width="400px"</img> 
 </div>
