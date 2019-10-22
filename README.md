@@ -8,3 +8,9 @@
 3.handler控制一个倒计时任务,而非多个倒计时任务
 
 4.倒计时时间以截止时间时间戳为准
+
+示例截图:
+
+<div align="center">
+    <img src="/screenshots/screen1.jpg" width="400px"</img> 
+</div>
