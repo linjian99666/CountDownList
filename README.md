@@ -11,6 +11,6 @@
 
 示例截图:
 
-<div align="center">
+<div>
     <img src="/screenshots/screen1.gif" width="400px"</img> 
 </div>
